@@ -1,0 +1,12 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+"/home/cc/SV/UVM Project/spi/sv/spi_pkg.sv"
+"/home/cc/SV/UVM Project/spi/sv/spi_if.sv"
+"/home/cc/SV/UVM Project/wishbone_interface/sv/wishbone_if.sv"
+"/home/cc/SV/UVM Project/wishbone_interface/sv/wishbone_pkg.sv"
+"/home/cc/SV/UVM Project/spi/tb/hw_top.sv"
+"/home/cc/SV/UVM Project/spi/tb/simple_spi_top.v"
+"/home/cc/SV/UVM Project/spi/tb/fifo4.v"
+"/home/cc/SV/UVM Project/spi/tb/tb_top.sv"
